@@ -36,4 +36,5 @@ This chatbot uses the llama-3.3-70b-versatile model from Groq, which is optimize
 
 ### 🧑‍💻 Author
 Muhammad Ahmad
+
 Feel free to connect or contribute!
