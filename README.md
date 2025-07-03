@@ -14,7 +14,7 @@ This is a simple chatbot built using **Streamlit** and **Groq's Python SDK**. It
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/groq-chatbot.git
+git clone https://github.com/ahmadmac01/groq-chatbot.git
 cd groq-chatbot
 ```
 ### 2. Create a .env File
@@ -27,7 +27,13 @@ Make sure you have Python 3.8+ installed.
 ```
 pip install -r requirements.txt
 ```
-### Run the App
+### 4. Run the App
 ```
 streamlit run app.py
 ```
+### 📚 About the Model
+This chatbot uses the llama-3.3-70b-versatile model from Groq, which is optimized for low-latency responses and high-quality output. It's suitable for general-purpose conversational AI tasks.
+
+###🧑‍💻 Author
+Muhammad Ahmad
+Feel free to connect or contribute!
