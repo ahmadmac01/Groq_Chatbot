@@ -34,6 +34,6 @@ streamlit run app.py
 ### 📚 About the Model
 This chatbot uses the llama-3.3-70b-versatile model from Groq, which is optimized for low-latency responses and high-quality output. It's suitable for general-purpose conversational AI tasks.
 
-###🧑‍💻 Author
+### 🧑‍💻 Author
 Muhammad Ahmad
 Feel free to connect or contribute!
